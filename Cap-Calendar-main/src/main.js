@@ -1,0 +1,11 @@
+import "./services/TimerService.js";
+import "./components/systemdate/SystemDate.js";
+import "./components/monthdate/MonthDate.js";
+import "./components/clock/Clock.js"
+import "./components/daysofweek/daysofweek.js"
+import "./components/core/componentDateBase.js"
+import "./services/FormatService.js"
+import "./components/buttons/CalendarButton.js"
+import "./components/eventdate/eventdate.js";
+import "./components/gridCalendar/gridCalendar.js";
+import "./components/calendar/calendar.js"
